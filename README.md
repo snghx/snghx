@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=🐇snghx🐇&height=200&fontColor=FFFFFF&fontSize=40)  
+![header](https://capsule-render.vercel.app/api?type=waving&text=snghx&height=200&fontColor=FFFFFF&fontSize=40)  
 **💪 Skills**  
 ---
 ⛏️ Data analysis  
