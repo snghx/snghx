@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=snghx&height=200&fontColor=FFFFFF&fontSize=40)  
-**💪 Skills**  
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&text=snghx&height=200&fontColor=FFFFFF&fontSize=40)   -->
+<!-- **💪 Skills**  
 ---
 ⛏️ Data analysis  
 
@@ -19,3 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snghx&layout=compact)](https://github.com/snghx/github-readme-stats)
 
+ -->
