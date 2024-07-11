@@ -1,12 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&text=snghx&height=200&fontColor=FFFFFF&fontSize=40)   -->
-<!-- **💪 Skills**  
+
+**💪 Skills**  
 ---
 ⛏️ Data analysis  
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />  
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" />  
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-01B0F0?style=flat-square&logo=Tableau&logoColor=white" />
 
 
 💻 Web Development  
@@ -19,4 +20,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snghx&layout=compact)](https://github.com/snghx/github-readme-stats)
 
- -->
