@@ -1,7 +1,32 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&text=snghx&height=200&fontColor=FFFFFF&fontSize=40)   -->
+<br>
 
-**💪 Skills**  
----
+## About Me
+**:books: Experience**
++ `2024.07 ~ `        SSAFY 12기
++ `2023.01 ~ 2024.01` 빅데이터 연합동아리 BOAZ 시각화 20기
++ `2021.03 ~ 2021.09` 숙명여대 중앙동아리 SOLUX
+
+
+**:mortar_board: Major**  
++ `2019.03 ~ 2024.08` 숙명여자대학교 소비자경제학과 / IT공학부  
+
+
+**:clipboard: Certificates**
++ `2024.04` GAIQ(Google Analytics Individual Qualification)
++ `2023.12` 컴퓨터활용능력 2급
++ `2023.11` 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)
++ `2022.06` SQL 개발자(SQLD, SQL Developer)
+
+
+**:trophy: Awards**
++ `2023.08` 제2회 고용노동 공공데이터 활용 공모전(고용노동부 주관) **우수상**
++ `2022.10` 제1회 신한금융그룹 빅데이터 해커톤(신한금융그룹, 빅데이터혁신융합대학사업단 주관) **장려상**
++ `2021.09` 2021 춘계학술대회 대학(원)생 아이디어 공모전(한국경영정보학회 주관) **동상**
+
+<br>
+
+## Skills & Tools 
 ⛏️ Data analysis  
 
 
